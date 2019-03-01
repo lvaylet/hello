@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/user/stringutil"
+	"github.com/lvaylet/stringutil"
 )
 
 // T is only used to test gofmt
